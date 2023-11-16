@@ -1,0 +1,1 @@
+import{_ as e}from"./VaPageNotFound.vue_vue_type_style_index_0_lang-1791e4cf.js";import{k as a,o as t,B as o,h as _,d as n}from"./index-bc5cd541.js";const s=n("div",{class:"va-page-not-found-large-text__number"},"404",-1),g=a({__name:"VaPageNotFoundLargeText",setup(r){return(c,d)=>(t(),o(e,{class:"va-page-not-found-large-text"},{image:_(()=>[s]),_:1}))}});export{g as default};
