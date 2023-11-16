@@ -1,0 +1,1 @@
+import{H as s,G as o,o as n,c as r,g as t,h as c,j as _}from"./index-b3f2905f.js";const d={},l={class:"tryout"},i=_(" Tryout? ");function m(u,f){const a=o("va-card-title"),e=o("va-card");return n(),r("div",l,[t(e,{class:"mb-8"},{default:c(()=>[t(a,null,{default:c(()=>[i]),_:1})]),_:1}),t(e,{class:"mb-8"})])}const v=s(d,[["render",m]]);export{v as default};
